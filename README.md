@@ -4,7 +4,8 @@ Power BI dashboard analyzing 100,000 sales transactions across
 product, customer, and time dimensions.
 
 ## Screenshot
-[dashboard-overview.png]
+<img width="1262" height="708" alt="image" src="https://github.com/user-attachments/assets/b09609fd-e85f-44ea-a794-20d04ec3cf2a" />
+
 
 ## Key Insights
 - Electronics & Accessories are the most profitable categories (~39%, ~38.6% margin)
